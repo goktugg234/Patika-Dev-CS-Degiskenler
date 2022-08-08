@@ -1,2 +1,2 @@
-# Patika-Dev-C-De-i-kenler
+# Patika-Dev-C-Degiskenler
 Patika Dev C# Değişkenler Eğitimi Ödevi
